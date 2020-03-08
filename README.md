@@ -4,7 +4,7 @@ Quick and Simple Approach for Detecting Hate Speech in Arabic Tweets.
 # Description
 A preliminary experiment on the detection of hate speech in Arabic tweets as part of participation in the Hate Speech Detection subtask in [OSACT2020 workshop](http://edinburghnlp.inf.ed.ac.uk/workshops/OSACT4/).
 
-# Table of Contents
+# Table of Content
 | Notebook  |  |
 | --- | --- |
 | [[Part_1] Hate Speech Detection Using Classical Machine Learning Models](https://github.com/AbeerAbuZayed/QUIUG_Hate-Speech-Detection_OSACT4-Workshop/raw/master/%5BPart_1%5DHate-Speech-Detection_Classical-ML.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W3EJDogt_74bLZ8SXAek3BVFz8FESmb1)|
